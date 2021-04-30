@@ -18,10 +18,17 @@ You are now ready to start using it
 # How to use the script
 When you run the script, the first thing you see is a web browser poping up and, depending on how many games are on the website, something like this will be printed:
 ```sh
-Found 3 games:
-1: WuhanShanghai Shenhua
-2: Zhetysu TaldykorganShakhtyor Karagandy 
-3: FC Saburtalo TbilisiSamgurali Tskaltubo
+Found 10 games:
+1: CD Tondela SL Benfica
+2: Southampton Leicester
+3: Celta de Vigo Levante
+4: Marselha Strasbourg
+5: Werder Bremen Leipzig
+6: Esteghlal Tehran Al Shorta [IRQ]
+7: Al-Hilal Al Ahli (EAU)
+8: FK Istiklol DushanbeAGMK FK
+9: Antuérpia Genk
+10: CD Lugo Saragoça
 Choose a game:
 ```
-Just choose a game number, type it and press enter. It should redirect the web browser to the respective game and start scraping it. The game can then be found in the *games_scraped* folder. Don´t mind the warnings and enjoy it!
+Just choose a game number, type it and press enter. It should redirect the web browser to the respective game and start scraping it. The game can then be found in the *games_scraped* folder (there is also an example of a game). Don´t mind the warnings and enjoy it!
