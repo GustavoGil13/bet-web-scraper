@@ -4,7 +4,7 @@ A basic Python Web Scraper that gets the statistics of football games in https:/
 <br>
 <br>
 # How to run the script
-1. Create a virtual environment:
+1. Create a virtual environment and activate it:
 ```sh
 python -m venv venv
 ```
