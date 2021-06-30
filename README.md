@@ -32,3 +32,5 @@ Found 10 games:
 Choose a game:
 ```
 Just choose a game number, type it and press enter. It should redirect the web browser to the respective game and start scraping it. The game can then be found in the *games_scraped* folder (there is also an example of a game). Don´t mind the warnings and enjoy it!
+
+I have around 3000 games scraped from the website. If you need them for research purpose or anything like that contact me via email: gustavogillmorais@gmail.com
