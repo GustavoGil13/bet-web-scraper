@@ -1,6 +1,6 @@
 # bet-web-scraper
 
-A basic Python Web Scraper that gets the statistics of football games in https://www.bet.pt/live-betting/
+A basic Python Web Scraper that gets the statistics of football games in https://www.bet.pt/live-betting/ (website as been changed so the scipt does not work anymore)
 <br>
 <br>
 # How to run the script
